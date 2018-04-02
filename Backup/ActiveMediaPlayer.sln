@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveMediaPlayer", "ActiveMediaPlayer\ActiveMediaPlayer.csproj", "{BA9D9FFD-606B-4584-898C-5D41AEBD05A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoAnalysisProcessSystem", "ActiveMediaPlayer\VideoAnalysisProcessSystem(200905192345)\VideoAnalysisProcessSystem\VideoAnalysisProcessSystem.csproj", "{D67E1EED-0386-4D3D-9355-482EDF605408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA9D9FFD-606B-4584-898C-5D41AEBD05A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9D9FFD-606B-4584-898C-5D41AEBD05A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9D9FFD-606B-4584-898C-5D41AEBD05A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9D9FFD-606B-4584-898C-5D41AEBD05A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67E1EED-0386-4D3D-9355-482EDF605408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67E1EED-0386-4D3D-9355-482EDF605408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67E1EED-0386-4D3D-9355-482EDF605408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67E1EED-0386-4D3D-9355-482EDF605408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VideoAnalysisProcessSystem.Properties.Resources.resources
+obj\Debug\VideoAnalysisProcessSystem.csproj.GenerateResource.Cache
+bin\Debug\VideoAnalysisProcessSystem.exe
+bin\Debug\VideoAnalysisProcessSystem.pdb
+obj\Debug\VideoAnalysisProcessSystem.exe
+obj\Debug\VideoAnalysisProcessSystem.pdb
+obj\Debug\VideoAnalysisProcessSystem.frmMainForm.resources
+obj\Debug\VideoAnalysisProcessSystem.frmVideoInfoScan.resources

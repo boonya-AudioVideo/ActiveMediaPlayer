@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ActiveMediaPlayer.Properties.Resources.resources
+obj\Debug\ActiveMediaPlayer.csproj.GenerateResource.Cache
+obj\Debug\ActiveMediaPlayer.csproj.ResolveComReference.cache
+bin\Debug\ActiveMediaPlayer.exe
+bin\Debug\ActiveMediaPlayer.pdb
+obj\Debug\ActiveMediaPlayer.exe
+obj\Debug\ActiveMediaPlayer.pdb
+obj\Debug\Interop.QuartzTypeLib.dll
+bin\Debug\Interop.QuartzTypeLib.dll
+bin\Debug\Interop.MediaPlayer.dll
+obj\Debug\Interop.MediaPlayer.dll
+bin\Debug\VideoAnalysisProcessSystem.exe
+bin\Debug\Interop.DexterLib.dll
+bin\Debug\VideoAnalysisProcessSystem.pdb
+obj\Debug\ActiveMediaPlayer.Form_PlayVideo.resources
